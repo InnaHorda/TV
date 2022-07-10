@@ -75,7 +75,7 @@ try
                     else
                     {
                         canals[nomer] = Convert.ToInt32(a);
-                        Console.WriteLine(" dfdf" + canals[nomer]);
+                        Console.WriteLine(" dfdf " + canals[nomer]);
                     }
 
                 }
